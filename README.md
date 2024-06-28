@@ -34,3 +34,13 @@ O arquivo app.js contém a lógica do jogo, incluindo funções para:
         Se o palpite estiver correto, o usuário é informado do sucesso e do número de tentativas.
         Se o palpite estiver incorreto, o programa indica se o número secreto é maior ou menor.
     Reinício do Jogo: Após adivinhar corretamente, o usuário pode iniciar um novo jogo clicando no botão "Novo jogo".
+
+## Aqui está um vídeo mostrando como o jogo funciona:
+
+
+https://github.com/Gabszeran/jogo-do-numero-secreto/assets/99148193/f1bb3149-08e4-4c8f-b75b-51018d0b0d2b
+
+
+
+
+
