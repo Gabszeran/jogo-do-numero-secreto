@@ -40,6 +40,8 @@ O arquivo app.js contém a lógica do jogo, incluindo funções para:
 
 https://github.com/Gabszeran/jogo-do-numero-secreto/assets/99148193/f1bb3149-08e4-4c8f-b75b-51018d0b0d2b
 
+## Acesse o link e jogue: https://jogo-do-numero-secreto-ashen-alpha.vercel.app/
+
 
 
 
